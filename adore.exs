@@ -5,3 +5,5 @@ feeling = fn feels ->
 end
 
 feeling.('adores').('Filip', 'Ksyu')
+
+# Prints: Filip adores Ksyu
